@@ -17,9 +17,9 @@ import {
 
 const components: { title: string; href: string; description: string }[] = [
   {
-    title: "Toyota Takoma",
-    href: "/builds/toyota-takoma",
-    description: "The beast takoma, always ready for every bit of action",
+    title: "Toyota Tacoma",
+    href: "/builds/toyota-tacoma",
+    description: "The beast tacoma, always ready for every bit of action",
   },
   {
     title: "Ford Ranger",
