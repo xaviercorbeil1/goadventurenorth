@@ -16,7 +16,10 @@ export default function Home() {
           preload="auto"
           className="w-full h-full object-cover"
         >
-          <source src="media/goadventurenorth.mp4" type="video/mp4" />
+          <source
+            src="https://zzsrstamodqlhrpuzitw.supabase.co/storage/v1/object/sign/goadventurenorth/output.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnb2FkdmVudHVyZW5vcnRoL291dHB1dC5tcDQiLCJpYXQiOjE3MzI2ODYxOTEsImV4cCI6MzMwOTQ4NjE5MX0.g4wqC0tB6Klf5izb1BM-lZWsPW98fApnKKSXkRfQXD8&t=2024-11-27T05%3A43%3A08.321Z"
+            type="video/mp4"
+          />
           Your browser does not support the video tag.
         </video>
         <div className="absolute inset-0 flex items-center justify-center bg-black/50">
