@@ -17,7 +17,7 @@ export default function Home() {
           className="w-full h-full object-cover"
         >
           <source
-            src="https://zzsrstamodqlhrpuzitw.supabase.co/storage/v1/object/sign/goadventurenorth/output.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnb2FkdmVudHVyZW5vcnRoL291dHB1dC5tcDQiLCJpYXQiOjE3MzI2ODYxOTEsImV4cCI6MzMwOTQ4NjE5MX0.g4wqC0tB6Klf5izb1BM-lZWsPW98fApnKKSXkRfQXD8&t=2024-11-27T05%3A43%3A08.321Z"
+            src="https://zzsrstamodqlhrpuzitw.supabase.co/storage/v1/object/sign/goadventurenorth/goAdventureNorth_compress.mp4?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJnb2FkdmVudHVyZW5vcnRoL2dvQWR2ZW50dXJlTm9ydGhfY29tcHJlc3MubXA0IiwiaWF0IjoxNzMyNjg3MjAzLCJleHAiOjMzMjM3MTUxMjAzfQ.4D2oC8MukpWx7dscDApXfR1ImWsA0MnMcF3Cdzqyo7I&t=2024-11-27T06%3A00%3A00.601Z"
             type="video/mp4"
           />
           Your browser does not support the video tag.

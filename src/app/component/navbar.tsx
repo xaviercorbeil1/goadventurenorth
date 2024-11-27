@@ -32,12 +32,12 @@ export default function NavBar() {
   return (
     <div className="shadow-md h-20 content-center relative ">
       <Link href="/">
-        <div className="absolute top-[-10px] left-5 h-40 w-30 z-50">
+        <div className="absolute top-[-10px] left-5 h-40 w-30 z-10">
           <Icons.thumbnail className="h-full w-full" />
         </div>
       </Link>
-      <NavigationMenu>
-        <NavigationMenuList className="pl-40">
+      <NavigationMenu className="absolute top-5 left-40">
+        <NavigationMenuList>
           <NavigationMenuItem>
             <NavigationMenuTrigger>Vehicule Builds</NavigationMenuTrigger>
             <NavigationMenuContent>
